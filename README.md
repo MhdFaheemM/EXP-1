@@ -47,15 +47,11 @@ a.   KVL:
 
  <img width="967" height="686" alt="Screenshot 2026-10-12 184312" src="https://github.com/user-attachments/assets/463d8023-320f-4133-bc6c-c42929a88943" />
 <img width="963" height="687" alt="Screenshot 2026-10-12 184321" src="https://github.com/user-attachments/assets/d8c0c8cc-d04c-4a62-b21f-d151a4113284" />
-<img width="1600" height="1015" alt="WhatsApp Image 2026-10-12 at 8 00 22 PM" src="https://github.com/user-attachments/assets/583e8882-2f34-415f-9d14-d018f5bad2a6" />
-
 
 b.  KCL:
 
  <img width="1162" height="632" alt="Screenshot 2026-10-12 184345" src="https://github.com/user-attachments/assets/ea2df952-d355-4b81-ba5d-c57f8c4ccfef" />
 <img width="1152" height="620" alt="Screenshot 2026-10-12 184400" src="https://github.com/user-attachments/assets/47adb0c5-0e98-4fc2-8861-d689c99e2887" />
-<img width="1112" height="1599" alt="WhatsApp Image 2026-10-12 at 6 55 07 PM" src="https://github.com/user-attachments/assets/052dfa23-4263-4916-b234-d589b04278b5" />
-
 
 Calculation:
 
